@@ -7,7 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-  HELLO！My name is Zhenliang Zhou, a freshman from Xi’an Jiaotong University, majoring in Intelligent Manufacturing Engineering.I have always been passionate about building my own robot from the ground up, but in the long term, I aim to push the frontiers of robotics and bring about a revolution in the field! To achieve this, I aspire to make a significant contribution to the advancement of robot vision and control.Now I am a member of Xi'an Jiaotong University ROBOCON Robot Club which dedicates to participating in [ABU ROBOCON Robotics Competition](https://en.wikipedia.org/wiki/ABU_Robocon). By interacting and cooperating with each other on the robot club,I have gained a more in-depth understanding of the implementation of robotics technology.To acquire the necessary skills and knowledge for my inaugural scientific research endeavor in robotics, I am currently engaged in deep learning studies. Concurrently, I aspire to secure a research assistantship in the realm of robotics during my sophomore year, marking the commencement of my research journey.
+Hello!
+My name is Zhenliang Zhou, a freshman from Xi’an Jiaotong University, majoring in Intelligent Manufacturing Engineering. I have a keen interest in participating in the design, construction, and development of intelligent robots. Currently, I am a member of the ROBOCON Robotics Club at Xi'an Jiaotong University which dedicates to participating in [ABU ROBOCON Robotics Competition](https://en.wikipedia.org/wiki/ABU_Robocon), where I am responsible for mechanical design. In addition, I am actively learning about control, vision, and other knowledge required for conducting robotics research.
+At present, I am eagerly looking for a research assistant position in the field of robotics. If you are interested, you can contact me through my email at sciz.mail@stu.xjtu.edu.cn.
 
 accomplishments
 ======
