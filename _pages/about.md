@@ -11,11 +11,11 @@ redirect_from:
 
 accomplishments
 ======
-* China University Student Mathematics Competition Provincial 3rd Prize
-* The national first prize in the 23rd National College Robotics Competition ROBOCON "HARVEST DAY"
-* The national first prize in the 23rd National College Robotics Competition ROBOCON Bionic Foot Style Skills Challenge(Indoor Obstacle Course) [![The national first prize in the 23rd National College Robotics Competition ROBOCON Bionic Foot Style Skills Challenge(Indoor Obstacle Course) ](./images/Outdoor.jpg)]
-* The national first prize in the 23rd National College Robotics Competition ROBOCON Bionic Foot Style Skills Challenge(Outdoor Cross Country Competition)
-* Bronze medalistin the 23rd National College Robotics Competition ROBOCON Volleyball Skills Challenge
+* [China University Student Mathematics Competition Provincial 3rd Prize](./images/math.jpg)
+* [The national first prize in the 23rd National College Robotics Competition ROBOCON "HARVEST DAY"](./images/main competition.jpg)
+* [The national first prize in the 23rd National College Robotics Competition ROBOCON Bionic Foot Style Skills Challenge(Indoor Obstacle Course) ](./images/Outdoor.jpg)
+* [The national first prize in the 23rd National College Robotics Competition ROBOCON Bionic Foot Style Skills Challenge(Outdoor Cross Country Competition)](./images/Indoor.jpg)
+* [Bronze medalistin the 23rd National College Robotics Competition ROBOCON Volleyball Skills Challenge](./images/vollyball.jpg)
 
 GPA
 ======
