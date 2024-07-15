@@ -12,28 +12,19 @@ redirect_from:
 Education
 ======
 * B.S. in Xi’an Jiaotong University, 2027 (expected)
-* JIJAUHBD 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* to be supplemented
   
 Skills
 ======
 * Skill 1
+  * solidworks modeling
 * Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
+  * programming language:C,python
 * Skill 3
+  * machining
 
 Publications
 ======
