@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: mysciz.github/cv/
 author_profile: true
 redirect_from:
   - /resume
@@ -12,9 +12,6 @@ redirect_from:
 Education
 ======
 * B.S. in Xi’an Jiaotong University, 2027 (expected)
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
 Work experience
 ======
