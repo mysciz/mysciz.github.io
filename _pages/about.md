@@ -8,10 +8,12 @@ redirect_from:
   - /about.html
 ---
 Hello!
+
 My name is Zhenliang Zhou, a freshman from Xi’an Jiaotong University, majoring in Intelligent Manufacturing Engineering. I have a keen interest in participating in the design, construction, and development of intelligent robots. Currently, I am a member of the ROBOCON Robotics Club at Xi'an Jiaotong University which dedicates to participating in [ABU ROBOCON Robotics Competition](https://en.wikipedia.org/wiki/ABU_Robocon), where I am responsible for mechanical design. In addition, I am actively learning about control, vision, and other knowledge required for conducting robotics research.
+
 At present, I am eagerly looking for a research assistant position in the field of robotics. If you are interested, you can contact me through my email at sciz.mail@stu.xjtu.edu.cn.
 
-accomplishments
+Awards
 ======
 * [China University Student Mathematics Competition Provincial 3rd Prize](./images/math.jpg)
 * [The national first prize in the 23rd National College Robotics Competition ROBOCON "HARVEST DAY"](./images/main competition.jpg)
@@ -28,6 +30,6 @@ GPA
 
 university career
 ======
-*ROBOCON
+* ROBOCON
 
 
