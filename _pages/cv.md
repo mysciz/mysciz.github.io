@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Xi’an Jiaotong University, 2027 (expected)
+* B.S. in Computer Science in Xi’an Jiaotong University, 2027 (expected)
 
 Work experience
 ======
