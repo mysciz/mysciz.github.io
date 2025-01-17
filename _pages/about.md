@@ -9,18 +9,18 @@ redirect_from:
 ---
 Hello!
 
-My name is Zhenliang Zhou, a soon-to-be sophomore from Xi’an Jiaotong University, majoring in Computer Science and Technology(with honor). In the freshman year, I majored in intelligent manufacturing. I have a keen interest in participating in the design, construction, and development of intelligent robots. Currently, I am a member of the ROBOCON Robotics Club at Xi'an Jiaotong University which dedicates to participating in [ABU ROBOCON Robotics Competition](https://en.wikipedia.org/wiki/ABU_Robocon), where I am responsible for mechanical design. In addition, I am actively learning about control, vision, and other knowledge required for conducting robotics research.
+My name is Zhenliang Zhou, a sophomore from Xi’an Jiaotong University, majoring in Computer Science and Technology(with honor). Based on my first year in the Mechanical Engineering program and my experience in robotics competitions, I was introduced to computer vision and robotics. Much to my surprise, I managed to become a member of the Computer Experimentation Program and embarked on a path that I thought was right for me.
 
-At present, I am eagerly looking for a research assistant position in the field of robotics. If you are interested, you can contact me through my email at sciz.mail@stu.xjtu.edu.cn.
+I want to do work that only I can do, at the intersection of computer vision and robotics, and I want to prove that I'm suited for that path!
+
+At present, I am eagerly looking for a research assistant position in the field of robotics. If you are interested, you can contact me 
+through my email at sciz.mail@stu.xjtu.edu.cn.
 
 Awards
 ======
-* [China University Student Mathematics Competition Provincial 3rd Prize](./images/math.jpg)
 * [The national first prize in the 23rd National College Robotics Competition ROBOCON "HARVEST DAY"](./images/main competition.jpg)
-* [The national first prize in the 23rd National College Robotics Competition ROBOCON Bionic Foot Style Skills Challenge(Indoor Obstacle Course) ](./images/Outdoor.jpg)
-* [The national first prize in the 23rd National College Robotics Competition ROBOCON Bionic Foot Style Skills Challenge(Outdoor Cross Country Competition)](./images/Indoor.jpg)
 * [Bronze medalistin the 23rd National College Robotics Competition ROBOCON Volleyball Skills Challenge](./images/vollyball.jpg)
-
+* [National Scholarships for the academic year 2023-2024]
 GPA
 ======
 * Freshman 92.6/100,4.03/4.3
