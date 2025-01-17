@@ -13,8 +13,7 @@ My name is Zhenliang Zhou, a sophomore from Xi’an Jiaotong University, majorin
 
 I want to do work that only I can do, at the intersection of computer vision and robotics, and I want to prove that I'm suited for that path!
 
-At present, I am eagerly looking for a research assistant position in the field of robotics. If you are interested, you can contact me 
-through my email at sciz.mail@stu.xjtu.edu.cn.
+At present, I am eagerly looking for a research assistant position in the field of robotics. If you are interested, you can contact me through my email at sciz.mail@stu.xjtu.edu.cn.
 
 Awards
 ======
