@@ -19,7 +19,7 @@ Awards
 ======
 * [The national first prize in the 23rd National College Robotics Competition ROBOCON "HARVEST DAY"](./images/main competition.jpg)
 * [Bronze medalistin the 23rd National College Robotics Competition ROBOCON Volleyball Skills Challenge](./images/vollyball.jpg)
-* [National Scholarships for the academic year 2023-2024]
+* [National Scholarships for the academic year 2023-2024](./images/national_scholar.jpg)
 
 GPA
 ======
